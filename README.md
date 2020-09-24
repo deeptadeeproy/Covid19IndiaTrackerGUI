@@ -1,4 +1,3 @@
 # Covid19IndiaTrackerGUI
 
-Same as Covid 19 Tracker for India but added GUI. 
-PySimpleGUI used.
+COVID-19 Tracker for India with a GUI and click to run functionality.
